@@ -24,4 +24,9 @@ navLink.forEach((link) =>
     ul.classList.remove("show");
   })
 );
-
+var first=prompt('enter first name');
+var second=prompt('enter second name');
+var sum=(first)+(second);
+alert("Your name is:"+ sum);
+alert('Chinonso Chikelue Proudly Welcome you to his portfolio')
+console.log('Chinonso Chikelue Proudly Welcome You To His portfolio')
